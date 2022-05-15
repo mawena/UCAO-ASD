@@ -1,0 +1,6 @@
+exo asd
+
+Ecrire une fonction stack_permute() qui prend une pile en paramètree
+(p) qui effectue sur la pile n permutations circulaire sucessive
+
+2, 13, 14, 34, 37

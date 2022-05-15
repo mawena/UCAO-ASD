@@ -1,0 +1,11 @@
+#Une liste chainée est une liste de divers élément:
+    #Chaque élément contient une valeur et l'adresse de l'élément suivant;
+#Les listes chainée permettent de stocker les éléments
+
+Définition d'une structure de liste:
+typedef Struct Liste Liste;
+Struct Liste{
+    Element *premier;
+}
+
+Créer une liste chainée de personne(nom, prenom, date de naissance());

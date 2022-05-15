@@ -1,0 +1,11 @@
+Utilisation d'une pile pour le calcul d'expression infissé en postfixé
+on utilise une pile pour éffectuer les calcul, les règles d'utilisation son alors les suivantes:
+    -si on rencontre un nombre on l'empile-
+    -si une opération on dépile le somet et le sous sommet
+    -on effectue le calcul sous-sommet operation sommet
+    -et puis empile le résultat
+    -si on rencontre une fonction on dépile le sommet, on calcule la fonction pour la valeur du sommet
+    -on empile le résultat
+
+avec l'expression ci dessous donnez les modifications de la pile en respectant les règles(en supposant la pile vide au départ)
+

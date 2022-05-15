@@ -1,0 +1,4 @@
+Séance04:
+
+                        /1/-Notes importantes:
+#Les piles sont des listes chaîné adoptant le comportement LIFO(Last Input First Outpuut);
